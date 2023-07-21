@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on wallofreview.com & clubofcoders.com
+- 🔭 I’m currently working on wallofreviews.com & clubofcoders.com
 - 🌱 I’m currently learning IOS Development
 - 🤔 I’m looking for help with marketing and funding
 - 💬 Ask me about Web Dev
