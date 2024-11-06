@@ -5,5 +5,5 @@
 - 🌱 I’m currently building SaaS and making programming courses related to web dev
 - 🤔 I’m looking for help with marketing and funding
 - 💬 Ask me about Web Dev
-- 📫 How to reach me: https://pranjalsoni.com/contact OR https://clubofcoders.com/contact-us
+- 📫 How to reach me: https://www.designdevlabs.com/schedule
 
