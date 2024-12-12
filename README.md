@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on https://supersocial.ai, https://ytshorts.ai (acquired), https://makeinfluencer.ai (current), https://capturevideo.ai (current), https://quizwizard.ai (current), https://1vim.com, https://seedbook.io & https://clubofcoders.com (shut down)
+- 🔭 I’m currently working on supersocial.ai, ytshorts.ai (acquired), makeinfluencer.ai (current), capturevideo.ai (current), quizwizard.ai (current), 1vim.com, seedbook.io & clubofcoders.com (shut down)
 - 🏃 running my design & dev agency https://www.designdevlabs.com/
 - 🌱 I’m currently building SaaS and making programming courses related to web dev
-- 🤔 I’m looking for help with marketing and funding
-- 💬 Ask me about Web Dev
+- 🤔 Thinking about marketing all the time 
+- 💬 Ask me about SaaS stuff
 - 📫 How to reach me: https://www.designdevlabs.com/schedule
 
